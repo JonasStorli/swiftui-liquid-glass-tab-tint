@@ -17,7 +17,7 @@ struct ContentView: View {
             Tab("Checkerboard", systemImage: "rectangle.grid.3x3.fill") {
                 GlassTestPage(title: "Checkerboard", pattern: .checkerboard)
             }
-            Tab("Upp", systemImage: "arrowshape.up.fill") {
+            Tab("Text", systemImage: "text.alignleft") {
                 GlassTestPage(title: "Text", pattern: .text)
             }
             Tab("", systemImage: "star", role: .search) {
