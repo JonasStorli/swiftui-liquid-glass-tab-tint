@@ -1,8 +1,8 @@
 # LiquidGlassTint
 
-<img width="503" height="953" alt="Stripes" src="https://github.com/user-attachments/assets/20b82ac9-e96d-41e8-a523-d9b0099be156" /><img width="503" height="953" alt="Screenshot 2026-09-23 at 11 23 13" src="https://github.com/user-attachments/assets/c8866f1e-673c-4166-8bcf-960d7ab3e0da" />
+<img width="250" alt="Stripes" src="https://github.com/user-attachments/assets/20b82ac9-e96d-41e8-a523-d9b0099be156" />
 
-
+<img width="250" alt="Checkerboard" src="https://github.com/user-attachments/assets/b6484bde-7eae-4029-9c08-06f278b8e750" />
 
 
 A small SwiftUI test app that shows **tinted Liquid Glass tab bars**, including a tinted search tab. Each tab has a high-contrast, scrollable background, so you can see that the tab bar is still glass after it's been tinted.
