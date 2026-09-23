@@ -1,14 +1,21 @@
 # LiquidGlassTint
 
+<img width="503" height="953" alt="Stripes" src="https://github.com/user-attachments/assets/20b82ac9-e96d-41e8-a523-d9b0099be156" />
+
+<img width="503" height="953" alt="Screenshot 2026-09-23 at 11 23 13" src="https://github.com/user-attachments/assets/c8866f1e-673c-4166-8bcf-960d7ab3e0da" />
+
+
+
+
 A small SwiftUI test app that shows **tinted Liquid Glass tab bars**, including a tinted search tab. Each tab has a high-contrast, scrollable background, so you can see that the tab bar is still glass after it's been tinted.
 
 ## What's inside
 
 | Tab | Background | What it shows |
 |-----|------------|---------------|
-| ▤ **Stripes** | Red / yellow stripes | Refraction along the glass edges |
-| ▦ **Checkerboard** | Black / white checkerboard | Blur and distortion |
-| ⬆️ **Upp** | Colored rows of text | Content stays readable but softened under the glass |
+| **Stripes** | Red / yellow stripes | Refraction along the glass edges |
+| **Checkerboard** | Black / white checkerboard | Blur and distortion |
+| **Text** | Colored rows of text | Content stays readable but softened under the glass |
 | ⭐ **Search** | Rainbow bands | How the tinted search button blends with what's behind it |
 
 Every page scrolls under the tab bar. Scrolling down also triggers `.tabBarMinimizeBehavior(.onScrollDown)`, so you can check the minimized state as well.
@@ -27,6 +34,9 @@ The tint is applied in two places, and both read the same color, **`accent`** fr
 3. Set its **opacity to 50%**.
 
 > **Why 50%?** The transparency keeps the glass effect visible. At 100% the tint covers the glass and the search button looks like a flat, solid circle.
+
+
+You'll need to add the SF Symbols to the assets folder to prevent the fading of inactivity when the tab is inactive.
 
 ## Requirements
 
