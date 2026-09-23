@@ -1,8 +1,6 @@
 # LiquidGlassTint
 
-<img width="503" height="953" alt="Stripes" src="https://github.com/user-attachments/assets/20b82ac9-e96d-41e8-a523-d9b0099be156" />
-
-<img width="503" height="953" alt="Screenshot 2026-09-23 at 11 23 13" src="https://github.com/user-attachments/assets/c8866f1e-673c-4166-8bcf-960d7ab3e0da" />
+<img width="503" height="953" alt="Stripes" src="https://github.com/user-attachments/assets/20b82ac9-e96d-41e8-a523-d9b0099be156" /><img width="503" height="953" alt="Screenshot 2026-09-23 at 11 23 13" src="https://github.com/user-attachments/assets/c8866f1e-673c-4166-8bcf-960d7ab3e0da" />
 
 
 
