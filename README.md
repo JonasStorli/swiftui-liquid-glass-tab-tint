@@ -4,6 +4,9 @@
 
 <img width="250" alt="Checkerboard" src="https://github.com/user-attachments/assets/b6484bde-7eae-4029-9c08-06f278b8e750" />
 
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/83eb7d7a-206c-41ec-8560-050247bacc14" />
+
+
 
 A small SwiftUI test app that shows **tinted Liquid Glass tab bars**, including a tinted search tab. Each tab has a high-contrast, scrollable background, so you can see that the tab bar is still glass after it's been tinted.
 
